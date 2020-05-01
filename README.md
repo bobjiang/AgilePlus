@@ -1,8 +1,7 @@
-# Agile Practice Collection
+# 敏捷家敏捷社区
 
-敏捷实践合集，请点击下方的 Wiki
-
-Goto [wiki](https://github.com/bobjiang/AgilePlus/wiki)
+- 对于敏捷落地、实践有问题，点这里[进行提问](https://github.com/bobjiang/AgilePlus/issues)
+- 敏捷社区 wiki ，请[移步这里](https://github.com/bobjiang/AgilePlus/wiki)
 
 关注微信公众号，有更多敏捷资料
 
