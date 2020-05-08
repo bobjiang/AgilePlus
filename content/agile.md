@@ -2,6 +2,7 @@
 title: '分享回顾'
 menu: 'main'
 url: /agile/
+weight: 2
 ---
 
 # 敏捷实践案例集

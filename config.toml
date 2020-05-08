@@ -31,11 +31,16 @@ theme = "hugo-serif-theme"
   [[menu.main]]
       name = "团队"
       url = "/team/"
-      weight = 1
+      weight = 3
+
+  [[menu.main]]
+      name = "订阅邮件"
+      url = "http://agileplus.plus/subscription/zKC_LCgUW"
+      weight = 1      
 
   # Footer Menu
 
   [[menu.footer]]
-    name = "联系"
-    url = "/contact/"
+    name = "BobJiang博客"
+    url = "https://bobjiang.com"
       weight = 1
