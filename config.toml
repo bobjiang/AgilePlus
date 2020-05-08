@@ -1,7 +1,7 @@
-baseURL = "www.agileplus.co"
+baseURL = "/"
 languageCode = "cn-zh"
 title = "敏捷家AgilePlus"
-themesDir = "./themes"
+themesDir = "themes"
 theme = "hugo-serif-theme"
 
 [params]
@@ -12,13 +12,13 @@ theme = "hugo-serif-theme"
   [params.logo]
     mobile = "images/logo-mobile.svg"
     standard  = "images/logo.svg"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "敏捷家 AgilePlus"
 
   [params.homepage_meta_tags]
     meta_description = "敏捷家是一群信仰敏捷的人“居住”的地方。AgilePlus顾名思义就是敏捷+。如下： 敏捷+开发 敏捷+产品 敏捷+运维（devops） 敏捷+hr 敏捷+硬件 敏捷+营销 敏捷+教育 敏捷+家庭 。"
     meta_og_title = "敏捷家AgilePlus"
     meta_og_type = "website"
-    meta_og_url = "www.agileplus.co"
+    meta_og_url = "https://www.agileplus.co"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
     meta_og_description = "敏捷家是一群信仰敏捷的人“居住”的地方。AgilePlus顾名思义就是敏捷+。如下： 敏捷+开发 敏捷+产品 敏捷+运维（devops） 敏捷+hr 敏捷+硬件 敏捷+营销 敏捷+教育 敏捷+家庭 "
     meta_twitter_card = "Bob Jiang"
@@ -38,4 +38,4 @@ theme = "hugo-serif-theme"
   [[menu.footer]]
     name = "联系"
     url = "/contact/"
-      weight = 2
+      weight = 1
