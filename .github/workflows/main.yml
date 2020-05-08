@@ -1,0 +1,50 @@
+# This is a basic workflow to help you get started with Actions
+
+name: build hugo and deploy to google cloud platform (storage)
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+# Environment variables available to all jobs and steps in this workflow
+env:
+  GCP_SA_EMAIL: ${{ secrets.GCP_SA_EMAIL }}
+  GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
+  GCP_BUCKET: www.agileplus.co
+
+jobs:
+  setup-deploy:
+    name: Setup and Deploy
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Checkout
+      uses: actions/checkout@v2
+
+# hugo ready & build
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.62.2'
+        # extended: true
+
+    - run: hugo --minify
+
+# deploy to google storage
+    - uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
+      with:
+        version: '285.0.0'
+        project_id: ${{ secrets.GCP_PROJECT_ID }}
+        service_account_email: ${{ secrets.GCP_SA_EMAIL }}
+        service_account_key: ${{ secrets.GCP_SA_KEY }}
+        export_default_credentials: true
+    - run: gcloud info
+
+    - run: gsutil -m rsync -d -c -r public gs://$GCP_BUCKET
+    - run: gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://$GCP_BUCKET/**/*.html
+    - run: gsutil -m setmeta -h "Cache-Control:public, max-age=31536000" gs://$GCP_BUCKET/js/*.js
+    - run: gsutil -m setmeta -h "Cache-Control:public, max-age=31536000" gs://$GCP_BUCKET/css/*.css
