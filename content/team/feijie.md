@@ -3,7 +3,7 @@ title: "费解（讲师）"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/004-feijie.png"
-jobtitle: ""
+jobtitle: "项目经理"
 weight: 50
 ---
 
