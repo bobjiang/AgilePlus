@@ -13,6 +13,10 @@ weight: 4
 - [敏捷论坛](https://github.com/bobjiang/AgilePlus/issues)
 - [敏捷招聘](https://github.com/bobjiang/AgilePlus/issues?q=is%3Aissue+is%3Aopen+label%3Ajobs)
 
+# 联系方式
+
+邮件： bob@agileplus.net
+
 关注微信公众号，有更多资料
 
 ![agile plus](https://www.bobjiang.com/images/agileplus-wechat.jpg)
