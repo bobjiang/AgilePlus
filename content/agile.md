@@ -12,6 +12,11 @@ weight: 2
 
 # 视频回放
 
+- [010 - 从持续的需求交付到价值交付 阿里 彭鑫（公亮）]() | [Youtube]()
+- [009 - 在敏捷实践中成长 平安壹钱包 杨大鹏]() | [Youtube]()
+- [008 - 敏捷的潘多拉魔盒 李聃]() | [Youtube]()
+- [007 - OKR中的误区与痛点 杨瑞](https://appmopev1px9533.h5.xiaoeknow.com/v1/course/video/v_5eba4b1ed1959_HONpapLr?type=2&pro_id=p_5e7cbe9bb1218_UCyN5rjz) | [Youtube](https://youtu.be/a2ADyeJwTRQ)
+- [006 - IPD下的敏捷实践 京东智联云 单冰](https://appmopev1px9533.h5.xiaoeknow.com/v1/course/video/v_5eb61b8238070_le3x61sM?type=2&pro_id=p_5e7cbe9bb1218_UCyN5rjz) | [Youtube](https://youtu.be/cNf6gDrPugI)
 - [005 - 我在哈啰的敏捷之旅 陈文博](https://appmopev1px9533.h5.xiaoeknow.com/v1/course/video/v_5eaec5c10f092_hQ1xxSzT?type=2&pro_id=p_5e7cbe9bb1218_UCyN5rjz) | [Youtube](https://www.youtube.com/watch?v=n7MkPL2pdTg)
 - [004 - OKR与敏捷 有赞商城 费解](https://appmopev1px9533.h5.xiaoeknow.com/v1/course/video/v_5e9d0be78ada2_28QQjTtv?type=2&pro_id=p_5e7cbe9bb1218_UCyN5rjz) | [Youtube](https://www.youtube.com/watch?v=8pIYbgthick)
 - [003 - 知行合一的敏捷实践 道富银行 杨贵](https://appmopev1px9533.h5.xiaoeknow.com/v1/course/video/v_5e94415c5c604_0jwImEuS?type=2&pro_id=p_5e7cbe9bb1218_UCyN5rjz) | [Youtube](https://youtu.be/0sDubj_OYw4)
@@ -21,6 +26,11 @@ weight: 2
 
 # 文字版
 
+- [010 - 从持续的需求交付到价值交付 阿里 彭鑫（公亮）]()
+- [009 - 在敏捷实践中成长 平安壹钱包 杨大鹏]()
+- [008 - 敏捷的潘多拉魔盒 李聃]()
+- [007 - OKR中的误区与痛点 杨瑞](https://mp.weixin.qq.com/s/yYqd-khg6bAbo3BzhJMRtw)
+- [006 - IPD下的敏捷实践 京东智联云 单冰]()
 - [005 - 我在哈啰的敏捷之旅 陈文博](https://mp.weixin.qq.com/s/He72P4Xsf4aIYexcJ2sdyA)
 - [004 - OKR与敏捷-有赞商城 费解](https://mp.weixin.qq.com/s/9SbnDAXbvaBjCI9aoEnkew)
 - [003 - 道富银行 杨贵 知行合一的敏捷实践](https://mp.weixin.qq.com/s/UUodVrWHbG0sDd7N_rbTMw)
