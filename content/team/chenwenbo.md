@@ -3,7 +3,7 @@ title: "陈文博（讲师）"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/005-chenwenbo.png"
-jobtitle: "敏捷教练"
+jobtitle: "哈啰出行敏捷教练"
 weight: 60
 ---
 

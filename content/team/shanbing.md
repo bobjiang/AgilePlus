@@ -3,7 +3,7 @@ title: "单冰（讲师）"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/006-shanbing.png"
-jobtitle: "项目团队负责人"
+jobtitle: "京东智联云项目团队负责人"
 weight: 70
 ---
 

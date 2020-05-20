@@ -3,7 +3,7 @@ title: "李岩（讲师）"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/002-liyan.png"
-jobtitle: "高级项目经理"
+jobtitle: "网易云音乐高级项目经理"
 weight: 30
 ---
 

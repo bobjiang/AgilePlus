@@ -3,7 +3,7 @@ title: "杨大鹏（讲师）"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/009-yangdapeng.png"
-jobtitle: "敏捷实践者"
+jobtitle: "平安壹钱包"
 weight: 100
 ---
 
