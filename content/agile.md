@@ -27,7 +27,7 @@ weight: 2
 # 文字版
 
 - 010 - 从持续的需求交付到价值交付 阿里 彭鑫（公亮）
-- 009 - 在敏捷实践中成长 平安壹钱包 杨大鹏
+- [009 - 在敏捷实践中成长 平安壹钱包 杨大鹏](https://mp.weixin.qq.com/s/I9rSz99gXS7SLsPflB38qA)
 - [008 - 敏捷的潘多拉魔盒 李聃](https://mp.weixin.qq.com/s/ouu3sElh8aDdrUGgsiS2aA)
 - [007 - OKR中的误区与痛点 杨瑞](https://mp.weixin.qq.com/s/yYqd-khg6bAbo3BzhJMRtw)
 - [006 - IPD下的敏捷实践 京东智联云 单冰](https://mp.weixin.qq.com/s/WIivYziA_fQgMWpAIUtO9A)
