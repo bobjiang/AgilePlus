@@ -7,11 +7,16 @@ weight: 2
 
 # 敏捷实践案例集
 
-- **如果你也想分享，或者有朋友推荐，请与我联系 bob@agileplus.net**
+- 加入志愿者团队
+- 加入讲师团队
+- **请与Bob联系 bob@bobjiang.com**
 - [订阅敏捷家邮件](http://agileplus.plus/subscription/zKC_LCgUW)
+
 
 # 视频回放
 
+- [012 基于Spotify的敏捷转型实践](https://appmopev1px9533.h5.xiaoeknow.com/v1/course/video/v_5ede4a1f6e6ae_Ai2IwqV6?type=2&pro_id=p_5e7cbe9bb1218_UCyN5rjz) | [Youtube](https://youtu.be/yHv2TQcpl5k)
+- [011 敏捷与教练 胡俊](https://appmopev1px9533.h5.xiaoeknow.com/v1/course/video/v_5ed46f96dfa75_WYIFuhK0?type=2&pro_id=p_5e7cbe9bb1218_UCyN5rjz) | [Youtube](https://youtu.be/q69kvSoqpaw)
 - [010 - 从持续的需求交付到价值交付 阿里 彭鑫（公亮）](https://appmopev1Px9533.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cmNlX3R5cGUiOjQsInJlc291cmNlX2lkIjoibF81ZWMyNDIxYWQ1NjE3X1JKY1c3eGhpIiwiYXBwX2lkIjoiYXBwbW9wZXYxUHg5NTMzIiwicHJvZHVjdF9pZCI6IiJ9) | [Youtube](https://youtu.be/ADpfa2vkydE)
 - [009 - 在敏捷实践中成长 平安壹钱包 杨大鹏](https://appmopev1px9533.h5.xiaoeknow.com/v1/course/video/v_5ecbd24064b4b_nCYEdxlg?type=2) | [Youtube](https://youtu.be/_a6G9By0fg4)
 - [008 - 敏捷的潘多拉魔盒 李聃](https://appmopev1px9533.h5.xiaoeknow.com/v1/course/video/v_5ecbcfc05e5f4_s5Px4IF1?type=2) | [Youtube](https://youtu.be/QKg3of57FX8)
@@ -26,7 +31,9 @@ weight: 2
 
 # 文字版
 
-- 010 - 从持续的需求交付到价值交付 阿里 彭鑫（公亮）
+- 012 基于Spotify的敏捷转型实践
+- [011 敏捷与教练 胡俊](https://mp.weixin.qq.com/s/3y5TOKXVQYVn2hoP9ZYneQ)
+- [010 - 从持续的需求交付到价值交付 阿里 彭鑫（公亮）](https://mp.weixin.qq.com/s/ktid88748rfuJ_3a0D5tGg)
 - [009 - 在敏捷实践中成长 平安壹钱包 杨大鹏](https://mp.weixin.qq.com/s/I9rSz99gXS7SLsPflB38qA)
 - [008 - 敏捷的潘多拉魔盒 李聃](https://mp.weixin.qq.com/s/ouu3sElh8aDdrUGgsiS2aA)
 - [007 - OKR中的误区与痛点 杨瑞](https://mp.weixin.qq.com/s/yYqd-khg6bAbo3BzhJMRtw)
