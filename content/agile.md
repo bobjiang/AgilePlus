@@ -15,6 +15,8 @@ weight: 2
 
 # 视频回放
 
+- [014 The Great ScrumMaster](https://appmopev1px9533.h5.xiaoeknow.com/v1/course/video/v_5ef04e4c52140_xLKy3fvQ?type=2&pro_id=p_5e7cbe9bb1218_UCyN5rjz) | [Youtube]()
+- [013 敏捷团队转型的七种武器](https://appmopev1px9533.h5.xiaoeknow.com/v1/course/video/v_5ef04d2200335_ZgaT9Dt6?type=2&pro_id=p_5e7cbe9bb1218_UCyN5rjz) | [Youtube]()
 - [012 基于Spotify的敏捷转型实践](https://appmopev1px9533.h5.xiaoeknow.com/v1/course/video/v_5ede4a1f6e6ae_Ai2IwqV6?type=2&pro_id=p_5e7cbe9bb1218_UCyN5rjz) | [Youtube](https://youtu.be/yHv2TQcpl5k)
 - [011 敏捷与教练 胡俊](https://appmopev1px9533.h5.xiaoeknow.com/v1/course/video/v_5ed46f96dfa75_WYIFuhK0?type=2&pro_id=p_5e7cbe9bb1218_UCyN5rjz) | [Youtube](https://youtu.be/q69kvSoqpaw)
 - [010 - 从持续的需求交付到价值交付 阿里 彭鑫（公亮）](https://appmopev1Px9533.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cmNlX3R5cGUiOjQsInJlc291cmNlX2lkIjoibF81ZWMyNDIxYWQ1NjE3X1JKY1c3eGhpIiwiYXBwX2lkIjoiYXBwbW9wZXYxUHg5NTMzIiwicHJvZHVjdF9pZCI6IiJ9) | [Youtube](https://youtu.be/ADpfa2vkydE)
@@ -31,7 +33,9 @@ weight: 2
 
 # 文字版
 
-- 012 基于Spotify的敏捷转型实践
+- [014 The Great ScrumMaster](https://mp.weixin.qq.com/s/vu_1g1Z02kjccYoMnpOT7Q)
+- [013 敏捷团队转型的七种武器](https://mp.weixin.qq.com/s/f-VQoYZYWXAKVho_RQLVew)
+- [012 基于Spotify的敏捷转型实践](https://mp.weixin.qq.com/s/E4ZEY5tzU2dOuaJ1ZjEpUA)
 - [011 敏捷与教练 胡俊](https://mp.weixin.qq.com/s/3y5TOKXVQYVn2hoP9ZYneQ)
 - [010 - 从持续的需求交付到价值交付 阿里 彭鑫（公亮）](https://mp.weixin.qq.com/s/ktid88748rfuJ_3a0D5tGg)
 - [009 - 在敏捷实践中成长 平安壹钱包 杨大鹏](https://mp.weixin.qq.com/s/I9rSz99gXS7SLsPflB38qA)
