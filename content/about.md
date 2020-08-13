@@ -1,7 +1,7 @@
 ---
 title: '关于'
 menu: 'main'
-weight: 4
+weight: 99
 ---
 
 # 敏捷家(AgilePlus)

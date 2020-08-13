@@ -39,9 +39,19 @@ theme = "hugo-serif-theme"
       weight = 2
 
   [[menu.main]]
+      name = "敏捷认证"
+      url = "https://www.bobjiang.com/csm/"
+      weight = 3
+
+  [[menu.main]]
+      name = "线上课程"
+      url = "https://appmopev1px9533.h5.xiaoeknow.com/v1/course/column/p_5f27d789e4b0822d26880e60?type=3"
+      weight = 4
+
+  [[menu.main]]
       name = "团队"
       url = "/team/"
-      weight = 3
+      weight = 5
 
   # Footer Menu
 
