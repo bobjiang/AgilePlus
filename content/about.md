@@ -21,6 +21,8 @@ weight: 99
 
 关注微信公众号，有更多资料
 
-![agile plus](https://www.bobjiang.com/images/agileplus-wechat.jpg)
+![敏捷家微信公众号](https://www.bobjiang.com/images/agileplus-wechat.jpg)
+
+![扫码加群](/images/agileplus-wechat-group-qrcode.png)
 
 ![agileplus logo](/images/agileplus-logo.png)
